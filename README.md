@@ -1,5 +1,3 @@
-# resume-ai-agent
-
 # Resume AI Agent
 
 Resume AI Agent is a project I'm building to help job seekers improve their resumes for specific job descriptions. It checks the resume, calculates an ATS score, finds missing keywords, and suggests areas for improvement.
