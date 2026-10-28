@@ -30,4 +30,13 @@ storage/temp/*
 Thumbs.db
 
 # Logs
-*.log
+*.logvenv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+backend/test_documents/
+backend/uploads/
+backend/outputs/
